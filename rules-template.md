@@ -1,4 +1,4 @@
-# Rules of the 100 Days Of Code Challenge
+# Rules of the 100 Days Of Code Challenge - STARTER TEMPLATE
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
@@ -23,6 +23,7 @@ June 25th, 2016. [PUT YOUR DATE HERE]
 
 ## Contents
 * [Rules](rules.md)
+* [Starting Template](rules-template.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
